@@ -5,7 +5,6 @@ const HomePage_24 = () => {
   return (
     <div>
       <Button variant='outline'>shiuan</Button>
-      <Button variant='default'>shiuan</Button>
     </div>
   )
 }
